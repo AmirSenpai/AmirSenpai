@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Git - react.js - npm - JavaScript and etc.**
 
-- My current Project: [ToDo list -Amir](https://github.com/AmirSenpai/ToDo-list-website-amir)
+- My current Project: [Portdolio -Amir](https://github.com/AmirSenpai/portfolio)
 
-- My second Project for now: [ToDoApp React](https://github.com/AmirSenpai/todo-app-amir)
+- My second Project for now: [Pomodoro timer](https://github.com/AmirSenpai/pomodoro)
+  
+- My finished projects: [ToDo list Website](https://github.com/AmirSenpai/ToDo-list-website-amir)
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/AmirSenpai](https://GitHub.com/AmirSenpai)
 
