@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Git - react.js - npm - JavaScript and etc.**
 
-- 💢 My current Project: none
+- 💢 My current Project: react native todo-app [soon]
 
 - 💫 My second Project for now: [Pomodoro timer](https://github.com/AmirSenpai/pomodoro)
   
