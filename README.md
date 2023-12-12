@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Git - react.js - npm - JavaScript and etc.**
 
-- 💢 My current Project: (react + vite + tailwind project)[https://github.com/AmirSenpai/vite-react-tailwind-project]
+- 💢 My current Project: [react + vite + tailwind project](https://github.com/AmirSenpai/vite-react-tailwind-project)
 
 - 💫 My second Project for now: [Pomodoro timer](https://github.com/AmirSenpai/pomodoro)
   
