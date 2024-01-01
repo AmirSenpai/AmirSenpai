@@ -15,6 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/AmirSenpai](https://GitHub.com/AmirSenpai)
 
+<h2 align="center">Support me in this way:
+  <br>
+  <br>
+<a href="https://www.coffeebede.com/amirhosseind"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50px" /></a>
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,11 +59,6 @@
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-<h2 align="left">Support me with:
-  <br>
-  <br>
-<a href="https://www.coffeebede.com/amirhosseind"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="60px" /></a>
-</h2>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirSenpai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSenpai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
