@@ -11,7 +11,7 @@
   
 - 💥 A preview of my Finished projects: [Pomodoro Timer](https://AmirSenpai.github.io/Pomodoro), [ToDo List App](https://amirsenpai.github.io/ToDo-list-website-amir)
   
-- 🪐 My finished projects: [ToDo list Website](https://github.com/AmirSenpai/ToDo-list-website-amir), [Portfolio](https://github.com/AmirSenpai/portfolio)
+- 🪐 My finished projects: [ToDo list Website](https://github.com/AmirSenpai/ToDo-list-website-amir), [Portfolio](https://github.com/AmirSenpai/portfolio), [Random Color Changer](https://github.com/AmirSenpai/color-changer)
 
 - 👨‍💻 All of my projects are available at [https://GitHub.com/AmirSenpai](https://GitHub.com/AmirSenpai)
 
