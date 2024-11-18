@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Git - react.js - npm - JavaScript and etc.**
 
-- 💢 My current Project: [PersonalCLI](https://github.com/SmirSenpai/personal-cli)
+- 💢 My current Project: [PersonalCLI](https://github.com/AmirSenpai/personal-cli)
 
 - 💫 My second Project for now: [Pomodoro timer](https://github.com/AmirSenpai/pomodoro)
   
