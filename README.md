@@ -5,7 +5,9 @@
 <h3 align="center">Front-End Developer, working from Iran</h3>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=AmirSenpai&icon=4&color=3" alt="amirsenpai" /> </p>
 # 💫 About Me:
-🔭 I’m currently working on some personal projects [PersonalCLI](https://github.com/AmirSenpai/personal-cli) [Blog](https://github.com/AmirSenpai/Amirs-Blog)
+🔭 I’m currently working on some personal projects :
+[PersonalCLI](https://github.com/AmirSenpai/personal-cli) 
+[Blog](https://github.com/AmirSenpai/Amirs-Blog)
 
 👯 I’m looking to collaborate on Web Based Projects & etc.
 
