@@ -2,14 +2,14 @@
 name: Metrics
 
 on:
-  # Refresh every hour (UTC)
+  # Run hourly at minute 0 (GitHub cron uses UTC)
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
   push:
     branches:
-      - master
       - main
+      - master
 
 jobs:
   github-metrics:
@@ -18,24 +18,38 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # PAT used to collect GitHub data
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Output publishing configuration
+          output_action: commit
+          committer_token: ${{ github.token }}
+          committer_branch: main
+          committer_message: "chore: update GitHub metrics [Skip GitHub Action]"
+          filename: github-metrics.svg
+          config_output: svg
+
+          # Profile
           user: AmirSenpai
           template: classic
           base: header, activity, community, repositories, metadata
 
+          # Global rendering
           config_timezone: Asia/Tehran
           config_twemoji: yes
 
+          # Contribution calendar
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
+          # Isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Most-used languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -48,15 +62,22 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: "0%"
 
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          # Lines plugin intentionally disabled:
+          # Current Metrics run fails inside plugin_lines when a repository owner is null.
+          # See METRICS.md for the error details and troubleshooting notes.
 
+          # Stargazers
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
 
+          # Starred repositories
           plugin_stars: yes
           plugin_stars_limit: 4
+
+          # Retry transient rendering and output API failures
+          retries: 2
+          retries_delay: 30
+          retries_output_action: 3
+          retries_delay_output_action: 60
