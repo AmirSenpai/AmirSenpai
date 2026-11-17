@@ -100,15 +100,10 @@ Exploring modern web interfaces, shopping experiences, and frontend product deve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirSenpai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Amir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirSenpai&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmirSenpai&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="./github-metrics.svg" alt="Live GitHub metrics for AmirSenpai" width="100%" />
 </p>
 
 ---
