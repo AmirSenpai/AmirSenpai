@@ -16,6 +16,7 @@ The GitHub Actions workflow runs the official `lowlighter/metrics` action and ge
 - Uses the `classic` template.
 - Writes the generated file to `github-metrics.svg` in the repository root.
 - Commits the generated file to `main`.
+- Displays `github-metrics.svg` in the profile `README.md`, so visitors see the dashboard directly on the GitHub profile.
 
 The schedule is `0 * * * *`: once per hour, at minute 0. GitHub Actions cron schedules use UTC. The `config_timezone: Asia/Tehran` setting changes dates displayed inside the metrics; it does not change the schedule timezone.
 
