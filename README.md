@@ -13,17 +13,19 @@ A Persian-first personal finance application for tracking income, expenses, budg
 
 Tech: React Native · Expo · JavaScript · Supabase · Cloudflare
 
-### 📚 [PageNest](https://github.com/AmirSenpai/PageNest)
-**Native Android Reading & Writing App**
+### ◈ [ATLAS](https://myket.ir/app/ir.pagenest.mrambrosia)
+**Native Android Digital Library & Reading App**
 
-A local-first document library and reading experience for EPUB, PDF, and other document formats, with reading tools, statistics, and home-screen widgets. Also includes a beta offline writing Studio for creating and publishing EPUBs.
+A minimalist, offline-first library for EPUB, PDF, TXT, Markdown, FB2, CBZ, and audiobooks. Includes a distraction-free reader, collections, reading insights, home-screen widgets, and a beta writing studio.
 
-Tech: Kotlin · Jetpack Compose · Android
+*Your world of knowledge.*
+
+Tech: Kotlin · Jetpack Compose · Material 3 · Room · DataStore · Jetpack Glance
 
 ### 🎨 [Moodify](https://moodifyweb.ir)
 **Mood-Based Web Experience**
 
-An experimental web project focused on interactive experiences and thoughtful frontend design.
+A bilingual browser-based creative and file toolkit focused on interactive experiences and thoughtful frontend design.
 
 Tech: React · Vite · JavaScript · Cloudflare Workers
 
@@ -38,3 +40,10 @@ Tech: React · TypeScript · Tauri · CSS
 **E-commerce Experiments**
 
 Experiments with modern web interfaces and shopping experiences.
+
+---
+
+<p align="center">
+  <a href="https://mrambrosia.ir">MrAmbrosia Studio</a> ·
+  <a href="https://github.com/AmirSenpai">GitHub</a>
+</p>
